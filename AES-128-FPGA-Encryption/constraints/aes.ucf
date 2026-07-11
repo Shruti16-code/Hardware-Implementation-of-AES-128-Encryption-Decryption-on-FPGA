@@ -1,0 +1,2 @@
+NET "clk_osc_12mhz" LOC = P95;
+NET "tx" LOC = P102;
